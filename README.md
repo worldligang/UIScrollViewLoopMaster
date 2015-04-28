@@ -20,4 +20,6 @@
 
 　　除了上面的几个问题，大家也可以为其添加更多的功能。那么对于ScrollView自动翻页这样通用的功能，最好的方式是将其封装起来，这样可以大大的提高效率。下面的代码是把UIScrollView、UIPageControl封装到了一个UIView中，而其中的ScrollView用来循环展示多张图片。
 　　
+　　iOS开发微信公众号：iOSDevTip
+　　
 　　原文地址：[http://www.cnblogs.com/jerehedu/p/4431034.html](http://www.cnblogs.com/jerehedu/p/4431034.html)
